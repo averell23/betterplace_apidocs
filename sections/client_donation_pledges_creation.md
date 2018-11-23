@@ -174,7 +174,9 @@ are optional.
     <th align="left">first_name</th>
     <td><code>Max</code></td>
     <td><code>string</code></td>
-    <td>yes</td>
+    <td>
+      yes
+    </td>
 <td>
 
 First name of the donor.
@@ -185,7 +187,9 @@ First name of the donor.
     <th align="left">last_name</th>
     <td><code>Mustermann</code></td>
     <td><code>string</code></td>
-    <td>yes</td>
+    <td>
+      yes
+    </td>
 <td>
 
 Last name of the donor.
@@ -196,7 +200,9 @@ Last name of the donor.
     <th align="left">email</th>
     <td><code>mm@example.com</code></td>
     <td><code>string</code></td>
-    <td>yes</td>
+    <td>
+      yes
+    </td>
 <td>
 
 Email address of the donor.
@@ -209,7 +215,9 @@ Only valid email addresses will be accepted.
     <th align="left">amount_in_cents</th>
     <td><code>100</code></td>
     <td><code>number</code></td>
-    <td>yes</td>
+    <td>
+      yes
+    </td>
 <td>
 
 The amount of cents that are donated.
@@ -224,7 +232,9 @@ and 100000.
     <th align="left">client_reference</th>
     <td><code>djksbf23u4sjkdn234p</code></td>
     <td><code>string</code></td>
-    <td>yes</td>
+    <td>
+      yes
+    </td>
 <td>
 
 A unique identifier for this transaction.
@@ -247,7 +257,9 @@ This is to make sure that one transaction is only processed once.
     <th align="left">tracking_via</th>
     <td><code>campaign-0815</code></td>
     <td><code>string</code></td>
-    <td>no</td>
+    <td>
+      no
+    </td>
 <td>
 
 A tracking identifier for the current campaign, origin or similar
@@ -262,7 +274,9 @@ Allowed characters are <code>a-zA-Z0-9_-</code>.
     <th align="left">earmark</th>
     <td><code>123</code></td>
     <td><code>number</code></td>
-    <td>no</td>
+    <td>
+      no
+    </td>
 <td>
 
 An "earmark" indicating which need this donation should go to.
@@ -278,7 +292,9 @@ future.
     <th align="left">street</th>
     <td><code>Rheinstrasse 202</code></td>
     <td><code>string</code></td>
-    <td>yes</td>
+    <td>
+      see description
+    </td>
 <td>
 
 The street of the donors address.
@@ -292,7 +308,9 @@ This field is mandatory by default, but optional with validate_address=false.
     <th align="left">city</th>
     <td><code>Wiesbaden</code></td>
     <td><code>string</code></td>
-    <td>yes</td>
+    <td>
+      see description
+    </td>
 <td>
 
 The city of the donors address.
@@ -307,7 +325,9 @@ This field is mandatory by default, but optional with validate_address=false.
     <th align="left">zip</th>
     <td><code>65185</code></td>
     <td><code>string</code></td>
-    <td>yes</td>
+    <td>
+      see description
+    </td>
 <td>
 
 Zip code of the city or region the donor lives in.
@@ -322,7 +342,9 @@ This field is mandatory by default, but optional with validate_address=false.
     <th align="left">country_code</th>
     <td><code>DE</code></td>
     <td><code>string</code></td>
-    <td>yes</td>
+    <td>
+      see description
+    </td>
 <td>
 
 ISO2 code of the country the donor lives in. A list of valid ISO2 codes
@@ -339,7 +361,9 @@ This field is mandatory by default, but optional with validate_address=false.
     <th align="left">validate_address</th>
     <td><code>false</code></td>
     <td><code>boolean</code></td>
-    <td>no</td>
+    <td>
+      no
+    </td>
 <td>
 
 Pass <code>false</code> to allow donations without a donor address.

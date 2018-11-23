@@ -143,7 +143,9 @@ are optional.
     <th align="left">amount_in_cents</th>
     <td><code>100</code></td>
     <td><code>number</code></td>
-    <td>yes</td>
+    <td>
+      yes
+    </td>
 <td>
 
 The amount of cents that are forwarded.
@@ -158,7 +160,9 @@ and 100000.
     <th align="left">client_reference</th>
     <td><code>djksbf23u4sjkdn234p</code></td>
     <td><code>string</code></td>
-    <td>yes</td>
+    <td>
+      yes
+    </td>
 <td>
 
 A unique identifier for this transaction.
@@ -181,7 +185,9 @@ This is to make sure that one transaction is only processed once.
     <th align="left">tracking_via</th>
     <td><code>campaign-0815</code></td>
     <td><code>string</code></td>
-    <td>no</td>
+    <td>
+      no
+    </td>
 <td>
 
 A tracking identifier for the current campaign, origin or similar

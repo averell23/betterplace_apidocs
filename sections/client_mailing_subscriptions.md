@@ -101,7 +101,9 @@ are optional.
     <th align="left">email</th>
     <td><code>peter.paul@betterplace.org</code></td>
     <td><code>string</code></td>
-    <td>yes</td>
+    <td>
+      yes
+    </td>
 <td>
 
 The email of the user
@@ -112,7 +114,9 @@ The email of the user
     <th align="left">first_name</th>
     <td><code>Peter</code></td>
     <td><code>string</code></td>
-    <td>yes</td>
+    <td>
+      yes
+    </td>
 <td>
 
 The first name of the user
@@ -123,7 +127,9 @@ The first name of the user
     <th align="left">last_name</th>
     <td><code>Paul</code></td>
     <td><code>string</code></td>
-    <td>yes</td>
+    <td>
+      yes
+    </td>
 <td>
 
 The last name of the user
@@ -134,7 +140,9 @@ The last name of the user
     <th align="left">active</th>
     <td><code>true</code></td>
     <td><code>boolean</code></td>
-    <td>yes</td>
+    <td>
+      yes
+    </td>
 <td>
 
 State of the subscription: active/inactive
