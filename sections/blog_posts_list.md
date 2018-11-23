@@ -30,10 +30,7 @@ to make sure you only request data that is associated with one of your projects.
   <tr>
     <th align="left">project_id</th>
     <td><code>1114</code></td>
-
-    <td>
-      yes
-    </td>
+    <td>yes</td>
 <td>
 
 Project id as an integer number ≥ 14.
@@ -334,47 +331,22 @@ Maximum sized image. This is the original image with default-cropping or user-cr
   "per_page": 2,
   "data": [
     {
-      "id": 7019,
-      "created_at": "2009-07-15T08:51:10+02:00",
-      "updated_at": "2009-07-15T08:51:10+02:00",
-      "lang": "en",
+      "id": 95557,
+      "created_at": "2014-03-31T17:16:38+02:00",
+      "updated_at": "2017-03-17T13:10:07+01:00",
+      "lang": "de",
       "type": "BlogPost",
-      "title": "Innovative support from a generous hairstylist",
-      "body": "<p><br></p><p>Approximately one year ago, a young German hairstyling student read a piece about Skateistan. When she found herself working as a nurse in the German military hospital in Mazar-e-Sharif soon after, the skateboarding students of Kabul lingered in her mind. The soldier, Alexandra H., decided to use her skills to support Skateistan in any way she could — so she began to collect donations by giving haircuts to German soldiers serving in Afghanistan.</p><br><p>News of Alexandra’s “haircuts for a good cause” spread rapidly at Mazar-e-Sharif’s Camp Marmal. Before long, she had given 150 haircuts: at the end of June 2009, she generously handed all of the profits to Skateistan.</p><br><p>Alexandra, who has promised to continue her fundraising efforts for Skateistan when she returns to Germany, has quickly become one of the organization’s most innovative and committed supporters.</p><br>",
-      "author": {
-        "id": 9238,
-        "name": "P. Davis",
-        "picture": {
-          "links": [
-            {
-              "rel": "fill_100x100",
-              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/009/238/fill_100x100_original_maxn_skate.jpg"
-            },
-            {
-              "rel": "original",
-              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/009/238/crop_original_original_maxn_skate.jpg"
-            }
-          ]
-        },
-        "links": [
-          {
-            "rel": "platform",
-            "href": "https://www.betterplace.org/de/users/9238"
-          },
-          {
-            "rel": "contact_data",
-            "href": "https://api.betterplace.org/de/api_v4/users/9238/contact_data.json"
-          }
-        ]
-      },
+      "title": "Für diese Bedarfe habe ich eine (Teil-)Auszahlung veranlasst:",
+      "body": "<p>A big thank you to everyone who has donated to Skateistan!</p><br><p>All donations to Skateistan are very gratefully received and are used<br> to further our work at our projects sites. We currently have projects <br>in Afghanistan and Cambodia, with plans to expand sustainably. For more <br>information about Skateistan, or to see more ways in which your donation<br> is put to good use, please visit: <a href=\"http://www.skateistan.org\"></a><a href=\"http://www.skateistan.org\">http://www.skateistan.org</a></p><br><br><p><strong>Es wurden 805,60 € Spendengelder für folgende Bedarfe beantragt:</strong></p><ul>\n<li>Clean Water for the Skateparks in Kabul and MeS 65,60 €</li>\n<li>Kabul Skatepark Food 740,00 €</li>\n</ul>",
+      "author": null,
       "links": [
         {
           "rel": "self",
-          "href": "https://api.betterplace.org/de/api_v4/blog_posts/7019.json"
+          "href": "https://api.betterplace.org/de/api_v4/blog_posts/95557.json"
         },
         {
           "rel": "platform",
-          "href": "https://www.betterplace.org/de/projects/1114-unterstutze-skateistan-sport-bildung-fur-kinder/news/7019"
+          "href": "https://www.betterplace.org/de/projects/1114-unterstutze-skateistan-sport-bildung-fur-kinder/news/95557"
         },
         {
           "rel": "documentation",
@@ -383,47 +355,22 @@ Maximum sized image. This is the original image with default-cropping or user-cr
       ]
     },
     {
-      "id": 8076,
-      "created_at": "2009-08-18T21:19:02+02:00",
-      "updated_at": "2009-08-19T09:38:56+02:00",
-      "lang": "de",
+      "id": 88972,
+      "created_at": "2013-10-30T12:39:27+01:00",
+      "updated_at": "2013-10-30T12:39:27+01:00",
+      "lang": "en",
       "type": "BlogPost",
-      "title": "Sicherheitssets - durch Ihre Spenden finanziert -",
-      "body": "<p>Im Bereich \"Fotos anschauen\" wurden Aufnahmen der trainierenden Kinder und Jugendlichen hochgeladen. Die <a href=\"../../../../pictures/0006/9710/69710.jpg\">Sicherheitsausrüstung</a>, die durch Ihre Spenden finanziert wurden, gehören selbstverständlich zu jedem Training dazu.</p><br><p> </p><br><p>Wir sagen an dieser Stelle noch einmal ganz herzlich \"DANKE\"</p><br><p>Das Skateistan-Team</p>",
-      "author": {
-        "id": 11872,
-        "name": "N. O",
-        "picture": {
-          "links": [
-            {
-              "rel": "fill_100x100",
-              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/011/872/fill_100x100_original_jana.jpg"
-            },
-            {
-              "rel": "original",
-              "href": "https://betterplace-assets.betterplace.org/uploads/user/profile_picture/000/011/872/crop_original_original_jana.jpg"
-            }
-          ]
-        },
-        "links": [
-          {
-            "rel": "platform",
-            "href": "https://www.betterplace.org/de/users/11872"
-          },
-          {
-            "rel": "contact_data",
-            "href": "https://api.betterplace.org/de/api_v4/users/11872/contact_data.json"
-          }
-        ]
-      },
+      "title": "First Climbing Contest Held in Afghanistan",
+      "body": "<p><img src=\"http://skateistan.org/sites/default/files/users/duncan.buck/1381505_10201192263663306_1801301726_n.jpeg\"><br></p><br><p>On<br> Saturday 28th September, Skateistan Kabul's volunteers and staff took <br>part in the inaugural indoor climbing competition held at the facility, <br>with both girls and boys competing (ages 11-22). This was the 1st <br>climbing competition that has taken place at Skateistan and the 1st <br>known climbing contest held in Afghanistan!<br><br>The climbing <br>competition had both female and male categories with contests that <br>included speed climbing and fastest rope coil. The competition was <br>judged by our amazing volunteer climbing teachers, including the <br>competition organiser Gio Trambaiolo who has been instrumental in <br>teaching climbing to the Skateistan volunteers. Gio has volunteered as a<br> climbing teacher nearly each week for well over a year. Skateistan is <br>extremely lucky to have such a wonderful team of dedicated volunteers, <br>who include around a dozen foreigners with certified climbing <br>backgrounds.</p><br><p>\" Everyone did very well, it's amazing to<br> see how the instructors and volunteers have progressed over the past <br>few months. \" - Gio, volunteer climbing teacher</p><br><p>Each <br>week since June 2012, climbing lessons have been provided <br>to Skateistan's Youth Leaders, who are Afghan staff and volunteers with <br>the project. They have learned climbing techniques, as well as built <br>up trust and respect for each other through the sport. It is been <br>inspiring to watch the volunteers develop as climbers and to see the <br>high skill level our Youth Leaders have developed since the program took<br> shape last year. Through the program, 14 young Afghans (50% girls) have<br> received certificates to be Beginner Climbing Instructors, and they now<br> facilitate climbing classes with more than 400 students who attend <br>Skateistan.</p><br><p>A brief prize ceremony was held the following week to <br>give the final results of the competition, as well as some prizes which <br>were given to everyone who participated.</p>We<br> want to thank all the climbing volunteers who have created a hugely <br>succesful sports program for our staff and students. We wish to thank <br>Giovanni Trambaiolo, Sheilagh Henry, Kate Hughes, Mindy Visser, Colin R,<br> Erin Blankenship, Jeffery Dow, Kelsey Noonan, Sarah-Jean <br>Cunningham, and Stephanie Faser. Your constant creativity and innovative<br> training have made climbing one of the leading activities for the Youth<br> Leaders at Skateistan. The development of students who attend your <br>classes has been a great pleasure to watch, and will benefit hundreds of<br> children who will continue to be taught by their Afghan peers.<p><br><img src=\"http://skateistan.org/sites/default/files/users/duncan.buck/2013-09-24-peace-day-eventimg_1269.jpg\"></p><br><p><br></p><br><br>",
+      "author": null,
       "links": [
         {
           "rel": "self",
-          "href": "https://api.betterplace.org/de/api_v4/blog_posts/8076.json"
+          "href": "https://api.betterplace.org/de/api_v4/blog_posts/88972.json"
         },
         {
           "rel": "platform",
-          "href": "https://www.betterplace.org/de/projects/1114-unterstutze-skateistan-sport-bildung-fur-kinder/news/8076"
+          "href": "https://www.betterplace.org/de/projects/1114-unterstutze-skateistan-sport-bildung-fur-kinder/news/88972"
         },
         {
           "rel": "documentation",

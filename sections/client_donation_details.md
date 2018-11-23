@@ -23,10 +23,7 @@ The details and list view show the same data.
   <tr>
     <th align="left">client_id</th>
     <td><code>volksfreund</code></td>
-
-    <td>
-      yes
-    </td>
+    <td>yes</td>
 <td>
 
 The betterplace.org-internal client permalink.
@@ -36,10 +33,7 @@ The betterplace.org-internal client permalink.
   <tr>
     <th align="left">id</th>
     <td><code>d0d35e347873169aec71</code></td>
-
-    <td>
-      yes
-    </td>
+    <td>yes</td>
 <td>
 
           The donation token that the client donation form passed to the

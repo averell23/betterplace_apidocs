@@ -26,10 +26,7 @@ to make sure you only request data that is associated with one of your projects.
   <tr>
     <th align="left">id</th>
     <td><code>125</code></td>
-
-    <td>
-      yes
-    </td>
+    <td>yes</td>
 <td>
 
 Organisation-id as an integer number ≥ 14.

@@ -27,10 +27,7 @@ fully implemented yet. Please contact us in case you need it!**
   <tr>
     <th align="left">language</th>
     <td><code>en</code></td>
-
-    <td>
-      yes
-    </td>
+    <td>yes</td>
 <td>
 
 The donation is marked with the language you use in your URL.
@@ -40,10 +37,7 @@ The donation is marked with the language you use in your URL.
   <tr>
     <th align="left">client_id</th>
     <td><code>devk</code></td>
-
-    <td>
-      yes
-    </td>
+    <td>yes</td>
 <td>
 
 The betterplace.org-internal client permalink.
@@ -53,10 +47,7 @@ The betterplace.org-internal client permalink.
   <tr>
     <th align="left">id</th>
     <td><code>1170</code></td>
-
-    <td>
-      yes
-    </td>
+    <td>yes</td>
 <td>
 
 The ID of the donation pledge.

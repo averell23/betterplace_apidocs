@@ -23,10 +23,7 @@ Use this resource as follows: `/clients/PERMALINK/projects/ID.json`
   <tr>
     <th align="left">id</th>
     <td><code>1114</code></td>
-
-    <td>
-      yes
-    </td>
+    <td>yes</td>
 <td>
 
 Project id as an integer number ≥ 14.

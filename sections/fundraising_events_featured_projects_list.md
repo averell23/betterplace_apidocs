@@ -22,10 +22,7 @@ A list of projects that are currently supported by the fundraising event.
   <tr>
     <th align="left">fundraising_event_id</th>
     <td><code>19267</code></td>
-
-    <td>
-      yes
-    </td>
+    <td>yes</td>
 <td>
 
 Fundraising Event id as an integer number ≥ 1.

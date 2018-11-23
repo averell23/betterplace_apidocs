@@ -28,10 +28,7 @@ Results are contained in a *data* attribute.
   <tr>
     <th align="left">project_id</th>
     <td><code>1114</code></td>
-
-    <td>
-      no
-    </td>
+    <td>no</td>
 <td>
 
 Project id as an integer number ≥ 14.
@@ -44,10 +41,7 @@ Also check the URL example in the introduction.
   <tr>
     <th align="left">fundraising_event_id</th>
     <td><code>19267</code></td>
-
-    <td>
-      no
-    </td>
+    <td>no</td>
 <td>
 
 Fundraising Event id as an integer number ≥ 1.
@@ -60,10 +54,7 @@ Also check the URL example in the introduction.
   <tr>
     <th align="left">order</th>
     <td><code>created_at:ASC</code></td>
-
-    <td>
-      no
-    </td>
+    <td>no</td>
 <td>
 
 Order the result set.

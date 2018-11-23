@@ -23,10 +23,7 @@ Use this resource as follows: `/clients/PERMALINK/fundraising-events/ID.json`
   <tr>
     <th align="left">id</th>
     <td><code>19267</code></td>
-
-    <td>
-      yes
-    </td>
+    <td>yes</td>
 <td>
 
 Fundraising Event id as an integer number ≥ 1.

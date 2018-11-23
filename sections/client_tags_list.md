@@ -24,10 +24,7 @@ Results are contained in a *data* attribute.
   <tr>
     <th align="left">client_id</th>
     <td><code>volksfreund</code></td>
-
-    <td>
-      yes
-    </td>
+    <td>yes</td>
 <td>
 
 The betterplace.org-internal client id

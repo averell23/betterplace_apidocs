@@ -27,10 +27,7 @@ to make sure you only request data that is associated with one of your projects.
   <tr>
     <th align="left">project_id</th>
     <td><code>1114</code></td>
-
-    <td>
-      yes
-    </td>
+    <td>yes</td>
 <td>
 
 Project id as an integer number ≥ 14.
@@ -40,10 +37,7 @@ Project id as an integer number ≥ 14.
   <tr>
     <th align="left">facets</th>
     <td><code>completed:false</code></td>
-
-    <td>
-      no
-    </td>
+    <td>no</td>
 <td>
 
 Filter the result set.
@@ -59,10 +53,7 @@ Documented and supported filters are:
   <tr>
     <th align="left">order</th>
     <td><code>position:ASC</code></td>
-
-    <td>
-      no
-    </td>
+    <td>no</td>
 <td>
 
 Order the result set. Documented and supported orders are:

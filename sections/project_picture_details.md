@@ -27,10 +27,7 @@ projects, the API will return a `404` HTTP code.
   <tr>
     <th align="left">project_id</th>
     <td><code>1114</code></td>
-
-    <td>
-      yes
-    </td>
+    <td>yes</td>
 <td>
 
 Project id as an integer number ≥ 14.
@@ -40,10 +37,7 @@ Project id as an integer number ≥ 14.
   <tr>
     <th align="left">id</th>
     <td><code>286505</code></td>
-
-    <td>
-      yes
-    </td>
+    <td>yes</td>
 <td>
 
 Picture-id as an integer number ≥ 1.

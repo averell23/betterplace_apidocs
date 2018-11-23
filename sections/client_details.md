@@ -19,10 +19,7 @@ This API endpoint returns links to more specific information about this client.
   <tr>
     <th align="left">id</th>
     <td><code>volksfreund</code></td>
-
-    <td>
-      yes
-    </td>
+    <td>yes</td>
 <td>
 
 The betterplace.org-internal client permalink

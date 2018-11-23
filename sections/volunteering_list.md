@@ -24,10 +24,7 @@ This resource is not available at the moment.
   <tr>
     <th align="left">scope</th>
     <td><code>location</code></td>
-
-    <td>
-      no
-    </td>
+    <td>no</td>
 <td>
 
 Use the scope to specify how the search query <code>q</code> should behave:
@@ -48,10 +45,7 @@ Use the scope to specify how the search query <code>q</code> should behave:
   <tr>
     <th align="left">around</th>
     <td><code>10997 Berlin, Germany</code></td>
-
-    <td>
-      no
-    </td>
+    <td>no</td>
 <td>
 
 Order the results by the distance to the given location from near to far.
@@ -79,10 +73,7 @@ values have been used for the query.
   <tr>
     <th align="left">around_distance</th>
     <td><code>25km</code></td>
-
-    <td>
-      no
-    </td>
+    <td>no</td>
 <td>
 
 In combination with the <code>around</code> parameter the search will be
@@ -100,10 +91,7 @@ will be ignored.
   <tr>
     <th align="left">nelat</th>
     <td><code>51.123</code></td>
-
-    <td>
-      no
-    </td>
+    <td>no</td>
 <td>
 
 For geographic bound filterning: The northeast corner's latitude.
@@ -113,10 +101,7 @@ For geographic bound filterning: The northeast corner's latitude.
   <tr>
     <th align="left">nelng</th>
     <td><code>12.123</code></td>
-
-    <td>
-      no
-    </td>
+    <td>no</td>
 <td>
 
 For geographic bound filterning: The northeast corner's longitude.
@@ -126,10 +111,7 @@ For geographic bound filterning: The northeast corner's longitude.
   <tr>
     <th align="left">swlat</th>
     <td><code>51.001</code></td>
-
-    <td>
-      no
-    </td>
+    <td>no</td>
 <td>
 
 For geographic bound filterning: The southwest corner's latitude.
@@ -139,10 +121,7 @@ For geographic bound filterning: The southwest corner's latitude.
   <tr>
     <th align="left">swlng</th>
     <td><code>12.001</code></td>
-
-    <td>
-      no
-    </td>
+    <td>no</td>
 <td>
 
 For geographic bound filterning: The southwest corner's longitude.
@@ -152,10 +131,7 @@ For geographic bound filterning: The southwest corner's longitude.
   <tr>
     <th align="left">q</th>
     <td><code>Homework help</code></td>
-
-    <td>
-      no
-    </td>
+    <td>no</td>
 <td>
 
 Search query. The searches behaviour is based on the scope.
@@ -165,10 +141,7 @@ Search query. The searches behaviour is based on the scope.
   <tr>
     <th align="left">order</th>
     <td><code>content_updated_at:ASC</code></td>
-
-    <td>
-      no
-    </td>
+    <td>no</td>
 <td>
 
 Order the result by <code>has_image</code> (default),

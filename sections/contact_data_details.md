@@ -27,10 +27,7 @@ See [betterplace.org clients](../README.md#client-api).
   <tr>
     <th align="left">user_id</th>
     <td><code>250285</code></td>
-
-    <td>
-      yes
-    </td>
+    <td>yes</td>
 <td>
 
 User-id as an integer number.

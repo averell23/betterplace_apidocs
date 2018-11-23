@@ -21,10 +21,7 @@ Results are contained in a *data* attribute.
   <tr>
     <th align="left">facets</th>
     <td><code>project_id:10377</code></td>
-
-    <td>
-      no
-    </td>
+    <td>no</td>
 <td>
 
 Filter the result set.
@@ -44,10 +41,7 @@ It is possible to set multiple facet filters.
   <tr>
     <th align="left">order</th>
     <td><code>amount_in_cents:desc</code></td>
-
-    <td>
-      no
-    </td>
+    <td>no</td>
 <td>
 
 Order the result set.

@@ -27,10 +27,7 @@ and order with each request as explained below.
   <tr>
     <th align="left">scope</th>
     <td><code>location</code></td>
-
-    <td>
-      no
-    </td>
+    <td>no</td>
 <td>
 
 Use the scope to specify how the search-query <code>q</code> should behave:
@@ -47,10 +44,7 @@ Use the scope to specify how the search-query <code>q</code> should behave:
   <tr>
     <th align="left">q</th>
     <td><code>Die Eckerts</code></td>
-
-    <td>
-      no
-    </td>
+    <td>no</td>
 <td>
 
 Search query. The searches behaviour is based on the scope.
@@ -60,10 +54,7 @@ Search query. The searches behaviour is based on the scope.
   <tr>
     <th align="left">facets</th>
     <td><code>tax_deductible:true</code></td>
-
-    <td>
-      no
-    </td>
+    <td>no</td>
 <td>
 
 Filter the result set.
@@ -94,10 +85,7 @@ It is possible to set multiple facet filters.
   <tr>
     <th align="left">order</th>
     <td><code>rank:DESC</code></td>
-
-    <td>
-      no
-    </td>
+    <td>no</td>
 <td>
 
 Order the result set.

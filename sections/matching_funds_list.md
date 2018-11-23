@@ -20,10 +20,7 @@ A list of betterplace.org matching funds.
   <tr>
     <th align="left">project_id</th>
     <td><code>28013</code></td>
-
-    <td>
-      no
-    </td>
+    <td>no</td>
 <td>
 
 Optional project id as an integer number ≥ 14.
@@ -37,10 +34,7 @@ the given project is part of the matching fund projects list.
   <tr>
     <th align="left">facets</th>
     <td><code>state:activated</code></td>
-
-    <td>
-      no
-    </td>
+    <td>no</td>
 <td>
 
 Filter the result set by <code>state</code> (activated|closed)

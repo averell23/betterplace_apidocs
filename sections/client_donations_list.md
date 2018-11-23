@@ -25,10 +25,7 @@ Results are contained in a *data* attribute.
   <tr>
     <th align="left">client_id</th>
     <td><code>volksfreund</code></td>
-
-    <td>
-      yes
-    </td>
+    <td>yes</td>
 <td>
 
 The betterplace.org-internal client permalink.
@@ -38,10 +35,7 @@ The betterplace.org-internal client permalink.
   <tr>
     <th align="left">facets</th>
     <td><code>client_reference:922ec9b-etc</code></td>
-
-    <td>
-      no
-    </td>
+    <td>no</td>
 <td>
 
 You can search for a specific client_reference: <code>?facets=client_reference:54</code>

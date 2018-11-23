@@ -24,10 +24,7 @@ including failure reasons in the case of a failure.
   <tr>
     <th align="left">language</th>
     <td><code>en</code></td>
-
-    <td>
-      yes
-    </td>
+    <td>yes</td>
 <td>
 
 The donation is marked with the language you use in your URL.
@@ -37,10 +34,7 @@ The donation is marked with the language you use in your URL.
   <tr>
     <th align="left">client_id</th>
     <td><code>some_client</code></td>
-
-    <td>
-      yes
-    </td>
+    <td>yes</td>
 <td>
 
 The betterplace.org-internal client permalink.
@@ -50,10 +44,7 @@ The betterplace.org-internal client permalink.
   <tr>
     <th align="left">id</th>
     <td><code>1337</code></td>
-
-    <td>
-      yes
-    </td>
+    <td>yes</td>
 <td>
 
 The ID of the forwarding request, returned within the

@@ -30,10 +30,7 @@ See [betterplace.org clients](../README.md#client-api).
   <tr>
     <th align="left">client_id</th>
     <td><code>volksfreund</code></td>
-
-    <td>
-      yes
-    </td>
+    <td>yes</td>
 <td>
 
 The betterplace.org-internal client permalink.
@@ -43,10 +40,7 @@ The betterplace.org-internal client permalink.
   <tr>
     <th align="left">client_donation_id</th>
     <td><code>V9mxWWAeuVK9PtJw9mrZRyRk</code></td>
-
-    <td>
-      yes
-    </td>
+    <td>yes</td>
 <td>
 
 The betterplace.org donation token or given client reference.

@@ -36,10 +36,7 @@ entity). [More error codes](../README.md#http-status-codes).
   <tr>
     <th align="left">language</th>
     <td><code>en</code></td>
-
-    <td>
-      yes
-    </td>
+    <td>yes</td>
 <td>
 
 The subscription is marked with the language you use in your URL.
@@ -53,10 +50,7 @@ target with the subscription lang. To target a lang see
   <tr>
     <th align="left">client_id</th>
     <td><code>volksfreund</code></td>
-
-    <td>
-      yes
-    </td>
+    <td>yes</td>
 <td>
 
 The betterplace.org-internal client permalink.
@@ -66,10 +60,7 @@ The betterplace.org-internal client permalink.
   <tr>
     <th align="left">project_id</th>
     <td><code>4425</code></td>
-
-    <td>
-      yes
-    </td>
+    <td>yes</td>
 <td>
 
 Project id as an integer number ≥ 14.
@@ -110,7 +101,9 @@ are optional.
     <th align="left">email</th>
     <td><code>peter.paul@betterplace.org</code></td>
     <td><code>string</code></td>
-    <td>yes</td>
+    <td>
+      yes
+    </td>
 <td>
 
 The email of the user
@@ -121,7 +114,9 @@ The email of the user
     <th align="left">first_name</th>
     <td><code>Peter</code></td>
     <td><code>string</code></td>
-    <td>yes</td>
+    <td>
+      yes
+    </td>
 <td>
 
 The first name of the user
@@ -132,7 +127,9 @@ The first name of the user
     <th align="left">last_name</th>
     <td><code>Paul</code></td>
     <td><code>string</code></td>
-    <td>yes</td>
+    <td>
+      yes
+    </td>
 <td>
 
 The last name of the user
@@ -143,7 +140,9 @@ The last name of the user
     <th align="left">active</th>
     <td><code>true</code></td>
     <td><code>boolean</code></td>
-    <td>yes</td>
+    <td>
+      yes
+    </td>
 <td>
 
 State of the subscription: active/inactive

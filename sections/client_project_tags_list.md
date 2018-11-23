@@ -29,10 +29,7 @@ request as explained below.
   <tr>
     <th align="left">client_id</th>
     <td><code>volksfreund</code></td>
-
-    <td>
-      yes
-    </td>
+    <td>yes</td>
 <td>
 
 The betterplace.org-internal client permalink
@@ -42,10 +39,7 @@ The betterplace.org-internal client permalink
   <tr>
     <th align="left">project_id</th>
     <td><code>4425</code></td>
-
-    <td>
-      yes
-    </td>
+    <td>yes</td>
 <td>
 
 Project id as an integer number ≥ 14.
@@ -55,10 +49,7 @@ Project id as an integer number ≥ 14.
   <tr>
     <th align="left">order</th>
     <td><code>projects_count:DESC</code></td>
-
-    <td>
-      no
-    </td>
+    <td>no</td>
 <td>
 
 Order the result set.

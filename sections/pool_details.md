@@ -28,10 +28,7 @@ Use this resource as follows: `/clients/PERMALINK/pool.json`
   <tr>
     <th align="left">client_id</th>
     <td><code>payback</code></td>
-
-    <td>
-      yes
-    </td>
+    <td>yes</td>
 <td>
 
 The betterplace.org-internal client permalink.

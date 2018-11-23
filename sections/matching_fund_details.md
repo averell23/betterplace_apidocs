@@ -21,10 +21,7 @@ The details and list view show the same data.
   <tr>
     <th align="left">id</th>
     <td><code>2</code></td>
-
-    <td>
-      yes
-    </td>
+    <td>yes</td>
 <td>
 
 matching-fund-id as an integer number ≥ 9.

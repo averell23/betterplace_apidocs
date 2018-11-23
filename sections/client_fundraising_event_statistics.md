@@ -21,10 +21,7 @@ Some client-statistics for a betterplace.org client. All results are cached for 
   <tr>
     <th align="left">client_id</th>
     <td><code>volksfreund</code></td>
-
-    <td>
-      yes
-    </td>
+    <td>yes</td>
 <td>
 
 The betterplace.org-internal client permalink

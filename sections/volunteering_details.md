@@ -23,10 +23,7 @@ This resource is not available at the moment.
   <tr>
     <th align="left">id</th>
     <td><code>65075</code></td>
-
-    <td>
-      yes
-    </td>
+    <td>yes</td>
 <td>
 
 Volunteering-id as an integer number ≥ 1.

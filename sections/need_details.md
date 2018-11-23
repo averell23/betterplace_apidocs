@@ -26,10 +26,7 @@ to make sure you only request data that is associated with one of your projects.
   <tr>
     <th align="left">project_id</th>
     <td><code>1114</code></td>
-
-    <td>
-      yes
-    </td>
+    <td>yes</td>
 <td>
 
 Project id as an integer number ≥ 14.
@@ -39,10 +36,7 @@ Project id as an integer number ≥ 14.
   <tr>
     <th align="left">id</th>
     <td><code>59220</code></td>
-
-    <td>
-      yes
-    </td>
+    <td>yes</td>
 <td>
 
 Need-id as an integer number ≥ 29.
