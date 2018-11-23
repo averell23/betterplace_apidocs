@@ -345,7 +345,7 @@ the donation is tax deductible.
     <th align="left">validate_address</th>
     <td><code>false</code></td>
     <td><code>boolean</code></td>
-    <td>no</td>
+    <td>yes</td>
 <td>
 
 Pass <code>false</code> to allow donations without a donor address.
