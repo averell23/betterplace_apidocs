@@ -293,7 +293,7 @@ future.
     <td><code>Rheinstrasse 202</code></td>
     <td><code>string</code></td>
     <td>
-      *
+      see description
     </td>
 <td>
 
@@ -309,14 +309,14 @@ This field is mandatory by default, but optional with validate_address=false.
     <td><code>Wiesbaden</code></td>
     <td><code>string</code></td>
     <td>
-      *
+      see description
     </td>
 <td>
 
 The city of the donors address.
 Used to issue a donation receipt if the donation is tax deductible.
 
-* This field is mandatory by default, but optional with validate_address=false.
+This field is mandatory by default, but optional with validate_address=false.
 
 
 </td>
@@ -326,14 +326,14 @@ Used to issue a donation receipt if the donation is tax deductible.
     <td><code>65185</code></td>
     <td><code>string</code></td>
     <td>
-      *
+      see description
     </td>
 <td>
 
 Zip code of the city or region the donor lives in.
 Used to issue a donation receipt if the donation is tax deductible.
 
-* This field is mandatory by default, but optional with validate_address=false.
+This field is mandatory by default, but optional with validate_address=false.
 
 
 </td>
@@ -343,7 +343,7 @@ Used to issue a donation receipt if the donation is tax deductible.
     <td><code>DE</code></td>
     <td><code>string</code></td>
     <td>
-      *
+      see description
     </td>
 <td>
 
@@ -352,7 +352,7 @@ can be found at <a href="http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officia
 Wikipedia ISO_3166-1_alpha-2</a>. Used to issue a donation receipt if
 the donation is tax deductible.
 
-* This field is mandatory by default, but optional with validate_address=false.
+This field is mandatory by default, but optional with validate_address=false.
 
 
 </td>
