@@ -91,9 +91,7 @@ are optional.
     <th align="left">first_name</th>
     <td><code>Peter</code></td>
     <td><code>string</code></td>
-    <td>
-      yes
-    </td>
+    <td>yes</td>
 <td>
 
 The first name of the user
@@ -104,9 +102,7 @@ The first name of the user
     <th align="left">last_name</th>
     <td><code>Paul</code></td>
     <td><code>string</code></td>
-    <td>
-      yes
-    </td>
+    <td>yes</td>
 <td>
 
 The last name of the user
@@ -117,9 +113,7 @@ The last name of the user
     <th align="left">email</th>
     <td><code>peter.paul@betterplace.org</code></td>
     <td><code>string</code></td>
-    <td>
-      yes
-    </td>
+    <td>yes</td>
 <td>
 
 The email of the user
@@ -130,9 +124,7 @@ The email of the user
     <th align="left">phone</th>
     <td><code>+49 (0)30 / 123456</code></td>
     <td><code>string</code></td>
-    <td>
-      no
-    </td>
+    <td>no</td>
 <td>
 
 The phone number of the user
@@ -143,9 +135,7 @@ The phone number of the user
     <th align="left">availability</th>
     <td><code>I can help every Sunday evening.</code></td>
     <td><code>string</code></td>
-    <td>
-      yes
-    </td>
+    <td>yes</td>
 <td>
 
 Information about the user’s availability.
@@ -159,9 +149,7 @@ would he prefer a short-term or a long-term involvement, etc.
     <th align="left">profile</th>
     <td><code>I have taken care of kittens many times before.</code></td>
     <td><code>string</code></td>
-    <td>
-      no
-    </td>
+    <td>no</td>
 <td>
 
 Information about the user himself, his skills, etc.
@@ -172,9 +160,7 @@ Information about the user himself, his skills, etc.
     <th align="left">questions</th>
     <td><code>Will I work in a team or on my own?</code></td>
     <td><code>string</code></td>
-    <td>
-      no
-    </td>
+    <td>no</td>
 <td>
 
 Any questions the user might have about the offer
@@ -185,9 +171,7 @@ Any questions the user might have about the offer
     <th align="left">terms_of_use</th>
     <td><code>true</code></td>
     <td><code>boolean</code></td>
-    <td>
-      yes
-    </td>
+    <td>yes</td>
 <td>
 
 Confirmation that the user has accepted the privacy terms,
